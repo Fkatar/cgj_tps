@@ -1,0 +1,11 @@
+# Visual Studio cache and per-user settings
+.vs/
+*.vcxproj.user
+
+# Build output (only the project x64/Debug and x64/Release folders,
+# NOT the x64 folders inside libraries/, which hold the .lib and .dll files)
+**/x64/Debug/
+**/x64/Release/
+
+# Local backups
+*.backup
